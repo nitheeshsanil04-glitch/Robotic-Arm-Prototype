@@ -43,3 +43,10 @@ The current prototype focuses on independent finger actuation.
 Total: 5 Degrees of Freedom (Independent Finger Control)
 
 Each finger is controlled individually using servo motors, allowing precise grip and object manipulation experiments.
+## Prototype Description
+
+This prototype is designed as a five-finger robotic hand with independent finger actuation. Each finger is controlled using a dedicated servo motor, allowing individual movement and basic grip pattern experimentation.
+
+The objective of this design is to study coordinated finger control, motion synchronization, and embedded system integration for robotic hand applications.
+
+Future development will focus on improving mechanical stability, enhancing grip strength, and integrating advanced control mechanisms.
