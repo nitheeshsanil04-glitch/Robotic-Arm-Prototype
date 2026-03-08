@@ -30,3 +30,16 @@ The control logic ensures coordinated movement between joints while maintaining 
 - Stable movement achieved within calibrated angle range
 - Minor vibration observed at extreme positions
 - Power supply stability is critical for smooth operation
+## Degrees of Freedom (DOF)
+
+The current prototype focuses on independent finger actuation.
+
+- Finger 1 flexion (1 DOF)
+- Finger 2 flexion (1 DOF)
+- Finger 3 flexion (1 DOF)
+- Finger 4 flexion (1 DOF)
+- Finger 5 flexion (1 DOF)
+
+Total: 5 Degrees of Freedom (Independent Finger Control)
+
+Each finger is controlled individually using servo motors, allowing precise grip and object manipulation experiments.
